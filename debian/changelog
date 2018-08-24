@@ -1,0 +1,5 @@
+tcf (0.11-1) unstable; urgency=medium
+
+  * Initial packaging for Debian
+
+ -- Tim Orling <ticotimo@gmail.com>  Fri, 24 Aug 2018 05:40:10 -0800
